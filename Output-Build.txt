@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: Pobitovie operatori, Configuration: Debug x64 ------
+1>Source.cpp
+1>E:\Users\PC\source\repos\Pobitovie operatori\Pobitovie operatori\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>Pobitovie operatori.vcxproj -> E:\Users\PC\source\repos\Pobitovie operatori\x64\Debug\Pobitovie operatori.exe
+1>Done building project "Pobitovie operatori.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00,795 ==========

@@ -1,10 +1,10 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 void main()
 {
 	int a, b;
-	cout << "Ââåäèòå äâà ÷èñëà:"; cin >> a >> b;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð²Ð° Ñ‡Ð¸ÑÐ»Ð°:"; cin >> a >> b;
 	a = a^b;
 	b = a^b;
 	a ^= b;
